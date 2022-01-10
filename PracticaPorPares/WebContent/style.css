@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body{
+	background-color: rgb(255,166,0);
+}
+section.bgazul{
+	background-color: lightblue;
+}
+
+li{
+	border: black 1px solid;
+	display: inline;
+}
+#a1{
+	background-color: white;
+}
+p.txt1{
+	border-top:solid blue 20px;
+	border-bottom:solid blue 20px;
+	display: inline-block;
+	min-height:190px;
+	
+}
+p.txt2{
+min-height:190px;
+	
+}
+img#steve{
+float:left;
+margin-top: -20px;
+}
+img#mac{
+float: right;
+margin-bottom:20px;
+}
+footer{
+	background-color: salmon;
+	margin-top:-1%;
+	padding-top:20px;
+	padding-bottom:10px;
+	
+}
