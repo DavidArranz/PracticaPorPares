@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@font-face {
+  font-family: Sriracha;
+  src: url(fonts/Sriracha-Regular.ttf);
+}
+body{
+	background-color: rgb(255,166,0);
+}
+header h1{
+	text-align:center;
+	color:white;
+	font-family: 'Sriracha', cursive;
+}
+nav.bgazul{
+	background-color: lightblue;
+	
+	padding-bottom:5px;
+}
+ul.productos{
+	list-style-type: katakana-iroha;
+}
+li.menu{
+	border: black 1px solid;
+	display: inline;
+}
+footer{
+	background-color: salmon;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:10px;
+	
+}
+span#resaltado{
+	background-color:yellow;
+}
+span#tachado{
+	text-decoration:line-through;
+}
+hr{
+	color:white;
+}
