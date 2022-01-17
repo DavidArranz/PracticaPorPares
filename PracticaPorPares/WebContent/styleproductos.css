@@ -11,41 +11,17 @@ header h1{
 	color:white;
 	font-family: 'Sriracha', cursive;
 }
-main.bgazul{
+nav.bgazul{
 	background-color: lightblue;
+	
+	padding-bottom:5px;
 }
-
+lu{
+	
+}
 li{
 	border: black 1px solid;
 	display: inline;
-}
-#a1{
-	background-color: white;
-}
-
-p.txt1{
-	color:blue;
-	border-top:solid blue 20px;
-	border-bottom:solid blue 20px;
-	display: inline-block;
-	min-height:190px;
-	
-}
-p.txt2{
-color:red;
-min-height:148px;
-margin-bottom:0%;
-border-top:solid red 20px;
-border-bottom:solid red 20px;
-	
-}
-img#steve{
-float:left;
-margin-top: -20px;
-}
-img#mac{
-float: right;
-margin-top:-20px;
 }
 footer{
 	background-color: salmon;
